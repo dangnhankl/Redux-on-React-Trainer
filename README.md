@@ -61,7 +61,7 @@
 
 - Tạo giao diện cho việc đăng nhập và hiển thị thông tin người dùng sau khi đăng nhập thành công. Xử lý đăng xuất và hiển thị lỗi (nếu có).
 
-**Ghi chú**: Hãy chia sẻ thêm kiến thức thông qua [Telegram của mình] để cùng nhau học hỏi và phát triển hơn nhé. Chúc bạn chạy không bug ^^!
+**Ghi chú**: Hãy chia sẻ thêm kiến thức với mình [Telegram của mình]. Chúc bạn chạy không bug ^^!
 
 
 [Telegram của mình]: <https://t.me/nhanDN>
